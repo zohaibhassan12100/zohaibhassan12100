@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Busd**
 
-- 👯 I’m looking to collaborate on **Busdd**
-
 - ⚡ Fun fact **funny**
 
 <h3 align="left">Connect with me:</h3>
